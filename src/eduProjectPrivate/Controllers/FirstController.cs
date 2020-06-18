@@ -7,5 +7,7 @@ namespace eduProjectPrivate.Controllers
 {
     public class FirstController
     {
+        // Ovo je komentar
+        public string name;
     }
 }
